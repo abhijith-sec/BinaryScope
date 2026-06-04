@@ -168,7 +168,7 @@ Through the development of BinaryScope, I gained hands-on experience with:
 
 Abhijith
 
-Cybersecurity Student | Security Enthusiast | Python Developer
+Cybersecurity Student | Security Enthusiast | Certified Ethical Hacker (CEH) | Aspiring Security Analyst
 
 GitHub: https://github.com/abhijith-sec
 
